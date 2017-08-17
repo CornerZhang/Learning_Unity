@@ -3,3 +3,5 @@
 *.userprefs
 UnityShader/obj/
 UnityShader/Library/
+ShaderLab/obj
+ShaderLab/Library/
